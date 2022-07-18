@@ -1,0 +1,6 @@
+{
+  "compilerOptions": {
+    // Uncomment to fix the issue.
+    // "esModuleInterop": true
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "name": "vite-plugin-vitest-typescript-assert-repro-esmoduleinterop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "4.7.4",
+    "vite-plugin-vitest-typescript-assert": "1.1.0",
+    "vitest": "0.18.1"
+  }
+}
